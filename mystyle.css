@@ -1,0 +1,17 @@
+#item1, #item2, #item3, #item4{
+	text-align: right;
+	font-family: Verdana, sans-serif;
+	font-size: 8px;
+}
+
+.container, h2, a{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+body {
+    background-color: lightblue !important;
+}
