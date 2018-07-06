@@ -1,4 +1,3 @@
-# Technical Documentation Page
+## Technical Documentation Page
 
-##### Used: Boostrap, JQuery, CSS and HTML5
-##### Difficult: Medium
+#### This project is proposed in the freeCodeCamp.org curriculum.
